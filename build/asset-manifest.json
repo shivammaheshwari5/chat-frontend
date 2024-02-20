@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e9366a2.css",
+    "main.js": "/static/js/main.460fbbbc.js",
+    "static/media/chat-message-yellow-speech-bubble-icon-notification-button-talk-dialog-symbol-conversation-button-icon-symbol-background-3d-illustration.jpg": "/static/media/chat-message-yellow-speech-bubble-icon-notification-button-talk-dialog-symbol-conversation-button-icon-symbol-background-3d-illustration.5220c884ef861b2042b5.jpg",
+    "index.html": "/index.html",
+    "main.5e9366a2.css.map": "/static/css/main.5e9366a2.css.map",
+    "main.460fbbbc.js.map": "/static/js/main.460fbbbc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e9366a2.css",
+    "static/js/main.460fbbbc.js"
+  ]
+}
